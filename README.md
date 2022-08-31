@@ -26,7 +26,7 @@ Statistical snapshots below.
 
 
 
-![Dec Temp DataFrame]](Dec%20Temp%20DataFrame.png)
+![Dec Temp DataFrame](Dec%20Temp%20DataFrame.png)
 
 
 
