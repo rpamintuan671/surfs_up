@@ -5,15 +5,15 @@ W. Avy is an investor of our new surf shop business venture in Oahu, Hawaii. Jus
 
 ## Resources Used
 
-> ** Tools: Jupyter Notebook & Pandas
+- Tools: Jupyter Notebook & Pandas
 
-> ** Languages: Python
+- Languages: Python
 
-> ** Applications: SQLIte, SQLAlchemy
+- Applications: SQLIte, SQLAlchemy
 
-> ** Data Sources: hawaii.sqlite
+-  Data Sources: hawaii.sqlite
 
-> ** Programming language used: Python
+- Programming language used: Python
 
 ## Results
 After conducting the analysis, the temperature data for the month of June and December in Oahu, Hawaii is as follows below. According to our analysis the results shows sufficient evidence that the idea of surf shop and ice cream shop business will sustain in summer and winter time. Python, Pandas and SQLAlchemy was utilized to arrive with our conclusion. The date column was filtered from the Measurements table from hawaii.sqllite database in order to retrieve the temperatures for the month of June and December. After the data were obtained, it was converted to DataFrame for final summary statistics.
